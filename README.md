@@ -1,2 +1,2 @@
 # Android-Dev-Java
-Storing my practice Android development using java projects
+Storing my practice Android development projects <using Java>
